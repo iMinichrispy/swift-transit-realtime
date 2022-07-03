@@ -1,0 +1,5 @@
+.DS_Store
+.swiftpm
+xcuserdata
+xcshareddata
+Package.resolved
