@@ -13,7 +13,7 @@ let message = try FeedMessage(serializedData: gtfsData)
 
 ## Updating
 
-To update the generated models in [gtfs-realtime.pb.swift](gtfs-realtime.pb.swift), perform the following steps:
+To update the generated models in [gtfs-realtime.pb.swift](Sources/TransitRealtime/gtfs-realtime.pb.swift), perform the following steps:
 
 1. If needed, install the `protobuf` and `swift-protobuf` command line tools:
 
